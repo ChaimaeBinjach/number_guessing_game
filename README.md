@@ -27,3 +27,4 @@ The game enhances security by regenerating the session ID, preventing session fi
 A function is utilized to generate a 5-digit random number, ensuring it is appropriately padded to maintain a consistent format.
 A new game session is initialized whenever the player starts a new game or resets the current game, providing a fresh start.
  
+![game](https://github.com/user-attachments/assets/c2cbc4a7-559c-4a77-9c9f-5828aefda57f)
